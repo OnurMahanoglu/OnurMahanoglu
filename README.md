@@ -1,16 +1,99 @@
-## Hi there 👋
+# Hi, I'm Onur 👋  
+### Frontend Developer → Backend Developer
 
-<!--
-**OnurMahanoglu/OnurMahanoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇹🇷 Türkçe için aşağı kaydır  
+🇬🇧 Scroll down for English  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🇬🇧 ENGLISH
+
+## 🧠 About Me
+
+- 💻 Frontend Developer transitioning into Backend
+- 🛍️ Building with Shopify (Liquid, APIs, Remix)
+- 🚀 Interested in SaaS & passive income projects
+- 🎮 Gamer & creative builder
+
+---
+
+## ⚒️ Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript
+- React / Next.js
+- TailwindCSS
+
+**Backend (Learning)**
+- Node.js
+- Express / Remix
+- REST & GraphQL
+
+**Shopify**
+- Liquid
+- Shopify API
+- Checkout UI Extensions
+
+---
+
+## 🚀 Current Focus
+
+- Building Shopify Apps & Extensions  
+- Learning Backend Architecture  
+- Creating portfolio-ready projects  
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+# 🇹🇷 TÜRKÇE
+
+## 🧠 Hakkımda
+
+- 💻 Frontend Developer olarak çalışıyorum  
+- 🔄 Backend Development tarafına geçiş yapıyorum  
+- 🛍️ Shopify (Liquid, API, Remix) ile projeler geliştiriyorum  
+- 🚀 SaaS ve pasif gelir projeleri ilgimi çekiyor  
+- 🎮 Gamer ve üretmeyi seven biriyim  
+
+---
+
+## ⚒️ Teknolojiler
+
+**Frontend**
+- HTML, CSS, JavaScript  
+- React / Next.js  
+- TailwindCSS  
+
+**Backend (Öğreniyorum)**
+- Node.js  
+- Express / Remix  
+- REST & GraphQL  
+
+**Shopify**
+- Liquid  
+- Shopify API  
+- Checkout UI Extensions  
+
+---
+
+## 🚀 Şu Anki Odak
+
+- Shopify App & Extension geliştirme  
+- Backend mimarisi öğrenme  
+- Portfolyo projeleri üretme  
+
+---
+
+## 📫 İletişim
+
+- LinkedIn: [link]
+- Portfolio: [link]
+
+---
+
+⭐️ *Sürekli öğren, sürekli üret.*
