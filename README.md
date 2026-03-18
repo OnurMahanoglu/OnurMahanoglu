@@ -91,8 +91,7 @@
 
 ## 📫 İletişim
 
-- LinkedIn: [link]
-- Portfolio: [link]
+- LinkedIn: [https://www.linkedin.com/in/onur-mahanoglu/]
 
 ---
 
